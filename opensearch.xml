@@ -1,7 +1,7 @@
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-<ShortName>HiteshSearch</ShortName>
-<Description>Hitesh Search Stack and enthusiast programmers</Description>
-<InputEncoding>UTF-8</InputEncoding>
-<Image width="16" height="16" type="image/x-icon">https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196</Image>
-<Url type="text/html" method="get" template="https://heihitesh.github.io/hit.github.io/search?q={searchTerms}"/>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<script/>
+<ShortName>Hitesh</ShortName>
+<Description>Hitesh</Description>
+<Tags>Hitesh</Tags>
+<Url type="text/html" template="https://onesearch.oraclecorp.com/ui/?ojr=search;q={searchTerms}"/>
 </OpenSearchDescription>
