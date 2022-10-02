@@ -1,6 +1,6 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
 <ShortName>HiteshSearch</ShortName>
-<Description>Hitesh Search Stack Overflow: Q&A for professional and enthusiast programmers</Description>
+<Description>Hitesh Search Stack and enthusiast programmers</Description>
 <InputEncoding>UTF-8</InputEncoding>
 <Image width="16" height="16" type="image/x-icon">https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196</Image>
 <Url type="text/html" method="get" template="https://stackoverflow.com/search?q={searchTerms}"/>
